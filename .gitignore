@@ -1,0 +1,7 @@
+jpm_tree
+jpm_tree/
+jpm_tree/*
+/jpm_tree
+*.o
+*.c
+build
